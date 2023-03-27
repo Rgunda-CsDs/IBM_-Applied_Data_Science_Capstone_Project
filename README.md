@@ -1,1 +1,2 @@
-# IBM_-Applied_Data_Science_Capstone_Project
+# IBM - Applied-Data-Science-Capstone
+Final Project for IBM Data Science Certificate
